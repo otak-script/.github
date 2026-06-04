@@ -229,6 +229,24 @@ A comprehensive electronic document archiving system (**Sistem Kearsipan Elektro
 
 ---
 
+---
+
+## 👥 Contributors
+
+<p align="center">
+  <a href="https://github.com/picobug"><img src="https://img.shields.io/badge/picobug-554%20commits-181717?style=for-the-badge&logo=github&logoColor=white" alt="picobug"/></a>
+  <a href="https://github.com/syarifmaulanamm"><img src="https://img.shields.io/badge/syarifmaulanamm-331%20commits-181717?style=for-the-badge&logo=github&logoColor=white" alt="syarifmaulanamm"/></a>
+</p>
+
+| Contributor | Commits | Repos |
+|---|---|---|
+| [picobug](https://github.com/picobug) | 554 | All repos |
+| [syarifmaulanamm](https://github.com/syarifmaulanamm) | 331 | karent_app, po_ayam, absensi_givaudan, document_archiving, transmonang |
+
+**Total: 2 contributors · 885 commits across 8 repositories**
+
+---
+
 <p align="center">
   <i>Built with precision by the Otak Script team.</i>
   <br/>
